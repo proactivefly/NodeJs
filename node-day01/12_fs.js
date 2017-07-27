@@ -12,7 +12,7 @@ var server = http.createServer(function(req,res){
 		//files是一个存放文件(夹)名的数组
 		//存放文件夹的数组
 		var wenjianjia = [];
-		//迭代器就是强行把异步的函数，变成同步的函数
+		//迭代器就是强行把异步的函数，变成同步的函数-----------------------------------
 		//1做完了，再做2；2做完了，再做3
 		(function iterator(i){
 			//遍历结束
@@ -20,12 +20,14 @@ var server = http.createServer(function(req,res){
 				console.log(wenjianjia);
 				return;
 			}
+			// 检查是否是文件
 			fs.stat("./album/" + files[i],function(err,stats){
 				//检测成功之后做的事情
 				if(stats.isDirectory()){
 					//如果是文件夹，那么放入数组。不是，什么也不做。
 					wenjianjia.push(files[i]);
 				}
+				// 递归
 				iterator(i+1);
 			});
 		})(0);

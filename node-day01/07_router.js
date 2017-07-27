@@ -1,7 +1,7 @@
 var http = require("http");
 
 var server = http.createServer(function(req,res){
-	//得到url
+	//得到请求的url
 	var userurl = req.url;
 
 	res.writeHead(200,{"Content-Type":"text/html;charset=UTF8"})
@@ -9,6 +9,7 @@ var server = http.createServer(function(req,res){
 	if(userurl.substr(0,9) == "/student/"){
 		var studentid = userurl.substr(9);
 		console.log(studentid);
+		// 如果输入的学生序号为10位的
 		if(/^\d{10}$/.test(studentid)){
 			res.end("您要查询学生信息，id为" + studentid);
 		}else{

@@ -11,7 +11,7 @@ var server = http.createServer(function(req,res){
 	//stat检测状态
 	fs.readdir("./album",function(err,files){
 		//files是个文件名的数组，并不是文件的数组，表示./album这个文件夹中的所有东西
-		//包括文件、文件夹
+		//包括文件、文件夹['aaa','bbb']
 		for(var i = 0 ; i < files.length ;i++){
 			var thefilename = files[i];
 			//又要进行一次检测
@@ -20,6 +20,7 @@ var server = http.createServer(function(req,res){
 				if(stats.isDirectory()){
 					wenjianjia.push(thefilename);
 				}
+				// 异步的
 				console.log(wenjianjia);
 			});
 		}

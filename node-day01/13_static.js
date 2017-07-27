@@ -4,16 +4,16 @@ var fs = require("fs");
 var path = require("path");
 
 http.createServer(function(req,res){
-	//得到用户的路径
+	//得到用户访问的路径名
 	var pathname = url.parse(req.url).pathname;
-	//默认首页
+	//设置默认首页
 	if(pathname == "/"){
 		pathname = "index.html";
 	}
-	//拓展名
+	//读取拓展名
 	var extname = path.extname(pathname);
 
-	//真的读取这个文件
+	//真的读取这个文件，默认加上static
 	fs.readFile("./static/" + pathname,function(err,data){
 		if(err){
 			//如果此文件不存在，就应该用404返回
@@ -21,7 +21,7 @@ http.createServer(function(req,res){
 				res.writeHead(404,{"Content-type":"text/html;charset=UTF8"});
 				res.end(data);
 			});
-			return;
+			return;//---------------------重要
 		};
 		//MIME类型，就是
 		//网页文件：  text/html

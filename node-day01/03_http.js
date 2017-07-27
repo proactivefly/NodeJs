@@ -13,8 +13,9 @@ var server = http.createServer(function(req,res){
 	res.write("<h2>我是2标题</h2>");
 	res.write("<h2>我是2标题</h2>");
 	res.write("<h3>我是3标题</h3>");
+	// res.end()括号中不许是字符串
 	res.end((1+2+3).toString());
 });
 
 //监听端口
-server.listen(3000,"127.0.0.1");
+server.listen(3001,"127.0.0.1");
