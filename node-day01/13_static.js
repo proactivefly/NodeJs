@@ -15,8 +15,9 @@ http.createServer(function(req,res){
 
 	//真的读取这个文件，默认加上static
 	fs.readFile("./static/" + pathname,function(err,data){
+		//判断页面没有找到
 		if(err){
-			//如果此文件不存在，就应该用404返回
+			//如果此文件不存在，就应该用404返回,读取404页面
 			fs.readFile("./static/404.html",function(err,data){
 				res.writeHead(404,{"Content-type":"text/html;charset=UTF8"});
 				res.end(data);
