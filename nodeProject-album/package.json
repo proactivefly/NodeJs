@@ -1,0 +1,18 @@
+{
+  "name": "nodeablum",
+  "version": "1.0.0",
+  "description": "使用nodeJs实相册功能只用技术为\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b使用技术为ejs模板，nodejs，express框架",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "ecstack",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.3"
+  }
+}
