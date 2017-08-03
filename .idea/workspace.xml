@@ -2,7 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df035550-599f-4df0-8a02-a3a3420fc469" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/app.js" afterPath="$PROJECT_DIR$/nodeProject-album/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/controller/route.js" afterPath="$PROJECT_DIR$/nodeProject-album/controller/route.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/models/file.js" afterPath="$PROJECT_DIR$/nodeProject-album/models/file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/.recently_updates.txt" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/.recently_updates.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_accepts@1.3.3@accepts/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_accepts@1.3.3@accepts/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_array-flatten@1.1.1@array-flatten/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_array-flatten@1.1.1@array-flatten/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_content-disposition@0.5.2@content-disposition/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_content-disposition@0.5.2@content-disposition/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_content-type@1.0.2@content-type/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_content-type@1.0.2@content-type/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_cookie-signature@1.0.6@cookie-signature/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_cookie-signature@1.0.6@cookie-signature/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_cookie@0.3.1@cookie/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_cookie@0.3.1@cookie/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_debug@2.6.7@debug/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_debug@2.6.7@debug/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_depd@1.1.0@depd/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_depd@1.1.0@depd/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_depd@1.1.1@depd/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_depd@1.1.1@depd/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_destroy@1.0.4@destroy/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_destroy@1.0.4@destroy/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_ee-first@1.1.1@ee-first/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_ee-first@1.1.1@ee-first/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_ejs@2.5.7@ejs/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_ejs@2.5.7@ejs/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_encodeurl@1.0.1@encodeurl/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_encodeurl@1.0.1@encodeurl/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_escape-html@1.0.3@escape-html/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_escape-html@1.0.3@escape-html/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_etag@1.8.0@etag/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_etag@1.8.0@etag/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_express@4.15.3@express/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_express@4.15.3@express/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_finalhandler@1.0.3@finalhandler/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_finalhandler@1.0.3@finalhandler/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_forwarded@0.1.0@forwarded/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_forwarded@0.1.0@forwarded/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_fresh@0.5.0@fresh/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_fresh@0.5.0@fresh/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_http-errors@1.6.1@http-errors/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_http-errors@1.6.1@http-errors/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_inherits@2.0.3@inherits/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_inherits@2.0.3@inherits/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_ipaddr.js@1.4.0@ipaddr.js/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_ipaddr.js@1.4.0@ipaddr.js/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_media-typer@0.3.0@media-typer/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_media-typer@0.3.0@media-typer/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_merge-descriptors@1.0.1@merge-descriptors/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_merge-descriptors@1.0.1@merge-descriptors/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_methods@1.1.2@methods/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_methods@1.1.2@methods/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_mime-db@1.29.0@mime-db/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_mime-db@1.29.0@mime-db/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_mime-types@2.1.16@mime-types/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_mime-types@2.1.16@mime-types/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_mime@1.3.4@mime/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_mime@1.3.4@mime/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_ms@2.0.0@ms/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_ms@2.0.0@ms/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_negotiator@0.6.1@negotiator/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_negotiator@0.6.1@negotiator/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_on-finished@2.3.0@on-finished/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_on-finished@2.3.0@on-finished/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_parseurl@1.3.1@parseurl/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_parseurl@1.3.1@parseurl/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_path-to-regexp@0.1.7@path-to-regexp/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_path-to-regexp@0.1.7@path-to-regexp/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_proxy-addr@1.1.5@proxy-addr/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_proxy-addr@1.1.5@proxy-addr/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_qs@6.4.0@qs/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_qs@6.4.0@qs/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_range-parser@1.2.0@range-parser/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_range-parser@1.2.0@range-parser/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_send@0.15.3@send/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_send@0.15.3@send/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_serve-static@1.12.3@serve-static/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_serve-static@1.12.3@serve-static/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_setprototypeof@1.0.3@setprototypeof/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_setprototypeof@1.0.3@setprototypeof/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_statuses@1.3.1@statuses/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_statuses@1.3.1@statuses/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_type-is@1.6.15@type-is/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_type-is@1.6.15@type-is/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_unpipe@1.0.0@unpipe/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_unpipe@1.0.0@unpipe/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_utils-merge@1.0.0@utils-merge/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_utils-merge@1.0.0@utils-merge/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/node_modules/_vary@1.1.1@vary/.npminstall.done" afterPath="$PROJECT_DIR$/nodeProject-album/node_modules/_vary@1.1.1@vary/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodeProject-album/views/index.ejs" afterPath="$PROJECT_DIR$/nodeProject-album/views/index.ejs" />
     </list>
     <ignored path="NodeJs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,7 +73,48 @@
     <favorites_list name="NodeJs" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodeAlbum/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodeAlbum/models/file.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1802">
+              <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="up.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodeAlbum/views/up.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nodeAlbum/controller/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,6 +133,13 @@
         <option value="$PROJECT_DIR$/node-day02/01.js" />
         <option value="$PROJECT_DIR$/node-day01/13_static.js" />
         <option value="$PROJECT_DIR$/node-day01/12_fs_异步转同步.js" />
+        <option value="$PROJECT_DIR$/nodeProject-album/controller/route.js" />
+        <option value="$PROJECT_DIR$/nodeProject-album/app.js" />
+        <option value="$PROJECT_DIR$/nodeProject-album/views/index.ejs" />
+        <option value="$PROJECT_DIR$/nodeProject-album/models/file.js" />
+        <option value="$PROJECT_DIR$/nodeAlbum/app.js" />
+        <option value="$PROJECT_DIR$/nodeAlbum/models/file.js" />
+        <option value="$PROJECT_DIR$/nodeAlbum/controller/router.js" />
       </list>
     </option>
   </component>
@@ -99,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -118,24 +216,93 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeAlbum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeAlbum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeAlbum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeAlbum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nodeProject-album" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nodeAlbum/app.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.01.js">
-    <configuration default="false" name="01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01.js" working-dir="$PROJECT_DIR$/node-day03">
+  <component name="RunManager" selected="Node.js.讲师app.js">
+    <configuration default="false" name="01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/nodeProject-album">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -191,11 +358,11 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="01.js" working-dir="$PROJECT_DIR$/node-day02">
+    <configuration default="false" name="讲师app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/nodeAlbum">
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.讲师app.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.01.js" />
     </list>
     <recent_temporary>
@@ -226,32 +393,37 @@
       <workItem from="1501494069598" duration="1026000" />
       <workItem from="1501521862575" duration="221000" />
       <workItem from="1501550496555" duration="20000" />
+      <workItem from="1501679093452" duration="4233000" />
+      <workItem from="1501686776514" duration="3912000" />
+      <workItem from="1501746502146" duration="1941000" />
+      <workItem from="1501749731782" duration="1955000" />
+      <workItem from="1501753027484" duration="3280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13764000" />
+    <option name="totallyTimeSpent" value="29085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.303125" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -270,6 +442,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nodeProject-album/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/node-day03/13.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -554,6 +733,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeProject-album/views/up.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeProject-album/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeProject-album/controller/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeProject-album/models/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeProject-album/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeAlbum/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeAlbum/views/up.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeAlbum/models/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeAlbum/controller/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
